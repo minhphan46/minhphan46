@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">An enthusiastic Flutter Mobile developer from VietNam.</h3>
 
-I'm extremely motivated to constantly develop my skills and knowledge.
+
+I am extremely motivated to constantly develop my skills and knowledge, especially in the field of mobile software development.
 
 - 🌱 I’m currently learning **Flutter, Csharp**
 
