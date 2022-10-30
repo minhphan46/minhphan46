@@ -2,6 +2,7 @@
 <h3 align="center">An enthusiastic Flutter Mobile developer from VietNam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhphan46&label=Profile%20views&color=0e75b6&style=flat" alt="minhphan46" /> </p>
+I'm extremely motivated to constantly develop my skills and knowledge.
 
 - 🌱 I’m currently learning **Flutter, Csharp**
 
