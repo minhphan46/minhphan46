@@ -7,7 +7,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 - 🌱 I’m currently learning **Mobile and Game developer**
 
-- 💬 Ask me about **Flutter, Dart, C++**
+- 💬 Ask me about **Flutter, Dart, C++, C#**
 
 - 📫 How to reach me **phanvanminh1234567890@gmail.com**
 
