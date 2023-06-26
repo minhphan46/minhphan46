@@ -9,7 +9,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 - 🌱 I’m currently learning **Software engineering at UIT**
 
-- 💬 Ask me about **Flutter, Dart, C++, C#**
+- 💬 Ask me about **Flutter, Dart, Android, C++, C#**
 
 - 📫 How to reach me **phanvanminh1234567890@gmail.com**
 
