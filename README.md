@@ -11,7 +11,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 - 💬 Ask me about **Flutter, Android, Nodejs,...**
 
-- 📫 How to reach me **phanvanminh1234567890@gmail.com**
+- 📫 How to reach me **minhphan4623@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
