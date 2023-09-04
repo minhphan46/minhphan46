@@ -9,7 +9,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 - 🌱 I’m currently learning **Software engineer at UIT**
 
-- 💬 Ask me about **Flutter, Android, Nodejs, Unity...**
+- 💬 Ask me about **Flutter, Android, Nodejs...**
 
 - 📫 How to reach me **minhphan4623@gmail.com**
 
