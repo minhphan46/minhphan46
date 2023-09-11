@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlxdjNzbWNmZ3BkNmtjcHp3dTM0MzZuOGZnMWZ3YWN1eTMxMHlpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NV32swCXdN2V0pviu9/giphy.gif">
+<img alt="banner" style="width:100vw" src="https://media4.giphy.com/media/2FVPBwyJi2PNYLAi3r/giphy.gif">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Minh</h1>
 <h3 align="center">An enthusiastic Mobile developer from VietNam.</h3>
