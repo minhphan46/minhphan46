@@ -1,7 +1,7 @@
 <img alt="banner" style="width:100vw" src="https://media4.giphy.com/media/2FVPBwyJi2PNYLAi3r/giphy.gif">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Minh</h1>
-<h3 align="center">An enthusiastic Mobile developer from VietNam.</h3>
+<h3 align="center">An enthusiastic Mobile developer from VietNam</h3>
 
 I am extremely motivated to constantly develop my skills and knowledge, especially in the field of mobile software development.
 
