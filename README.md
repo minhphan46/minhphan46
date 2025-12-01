@@ -7,7 +7,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 
 
-- 🌱 I’m currently learning **Software engineer at UIT**
+- 🌱 I’m currently working as **Software engineer** at TISOHA
 
 - 💬 Ask me about **Mobile, Flutter, Dotnet,...**
 
